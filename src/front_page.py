@@ -10,6 +10,9 @@ st.text('Image Return: Returns an image of the requested card')
 st.subheader('Summary')
 st.text('Summary: IT is a summarization page of all the inner workings of my application')
 
+st.subheader('Query')
+st.text('User can request their own card')
+
 st.subheader('Recommender')
 st.text('A rrecommendation system that we will build if we have time tomorrow!')
 
