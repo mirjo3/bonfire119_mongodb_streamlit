@@ -58,5 +58,3 @@ if __name__ == '__main__':
     print('Successful connection to client object')
     c.upload_one_by_one()
     print('Cards have been uploaded')
-    # c.delete_collection('cards')
-    # print('Cards have been successfully deleted')
